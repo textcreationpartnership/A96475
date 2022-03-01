@@ -1,0 +1,790 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three letters concerning the surrender of many Scotish lords to the High Sheriffe of the county of Chester, and the condition of Duke Hamilton, Sir Marmaduke Langdale, Middleton, and others of note. With a list of the names of the lords, knights, colonels, and other officers of Duke Hamiltons army: which was taken prisoners by the Parliament forces under the command of Lievt. Gen Cromwell. Their numbers and qualities herein exprest. Read in both Houses of Parliament the 25. of August. 1648.</title>
+            <author>Wilbraham, Roger, b. 1623.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96475</idno>
+            <idno type="STC">Wing W2116</idno>
+            <idno type="STC">Thomason E461_9</idno>
+            <idno type="STC">ESTC R204123</idno>
+            <idno type="EEBO-CITATION">99863817</idno>
+            <idno type="PROQUEST">99863817</idno>
+            <idno type="VID">162164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162164)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three letters concerning the surrender of many Scotish lords to the High Sheriffe of the county of Chester, and the condition of Duke Hamilton, Sir Marmaduke Langdale, Middleton, and others of note. With a list of the names of the lords, knights, colonels, and other officers of Duke Hamiltons army: which was taken prisoners by the Parliament forces under the command of Lievt. Gen Cromwell. Their numbers and qualities herein exprest. Read in both Houses of Parliament the 25. of August. 1648.</title>
+                  <author>Wilbraham, Roger, b. 1623.</author>
+                  <author>Lothian, James.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>28. Aug. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>All three letters signed by Roger Wilbraham; second and third letters also signed by James Lothian.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Chester (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162164:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>THREE LETTERS Concerning the Surrender of many Scotiſh Lords To the High Sheriffe of the County of <hi>Cheſter,</hi> and the Condition of Duke HAMILTON, Sir MARMADUKE LANGDALE, MIDDLETON, and others of note.</p>
+            <p>WITH A LIST of the Names of the Lords, Knights, Colonels, and other Officers of Duke HAMILTONS Army: WHICH Was taken Priſoners by the Parliament Forces under the command of Lievt. Gen. <hi>Cromwell.</hi> Their numbers and qualities herein expreſt.</p>
+            <p>Read in both Houſes of Parliament the 25. of Auguſt. 1648.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>John Wright</hi> at the Kings Head in the old Bayley. 28. <hi>Aug.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162164:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="1" facs="tcp:162164:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>To the Honourable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the Houſe of COMMONS, theſe. Haſte. Preſent.</head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>THe beaten Enemie flying out of Lancaſhire into theſe Parts, we (having put the County into a poſture) fell upon them with what ſtrength we could poſſible raiſe, have taken about 1500. ſome of which (conſiderable Perſons) tendered themſelves priſoners to me the night before, to wit, the Earl of <hi>Traquaire,</hi> Lord <hi>Carnagey,</hi> Lord <hi>Lunton,</hi> Lord <hi>Ramſey,</hi> Sir <hi>James Leſley</hi> Sir <hi>Michael Miſmiſh,</hi> Lievtenant Colonell <hi>Graham</hi> and many of their Servants, beſides many Gentlemen now at Namptwick, whoſe Perſons and Habit declares them of Quality. The meaner ſort (both men and women,) very Ragged and Poore; The burthen of which lies ſo heavily upon the poore Country (wanting bread;) that we cannot provide them of ne<g ref="char:EOLhyphen"/>ceſſaries for life. Duke <hi>Hamilton,</hi> Sir <hi>Marmaduke Langdale,</hi> and  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> 
+               <hi>Middleton,</hi> paſt through this County with about 5000. few of them Foot, and the Horſe tyred with an inceſſant March, upon whoſe Reare we gleaned many. We have taken a P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quet of Papers, which we have ſent up to your view; Their March was into <hi>Shropſhire,</hi> ſo to <hi>Stone</hi> in <hi>Staffordſhire,</hi> yeſternight to <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>xitor,</hi> and (as we conceive by their motions) to the <hi>North.</hi> W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not but you will take a ſpeedy courſe for the diſpoſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mon-Souldiers to eaſe the Country. No more at pre<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I am,</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>Your Humble Servant,
+<hi>Roger VVitbraham,</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </signed>
+               <dateline>Namptwich, <date>22. Auguſt, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>We intend in regard of the Obſtruction <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> reſpit the ſending of the Paquet of <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the next Poſt.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:162164:3"/>
+            <!-- PDF PAGE 10 -->
+            <head>To Lievtenant Generall <hi>Cromwell.</hi>
+            </head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>IN p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tuance of thoſe, you ſo happily diſperſed my, Lord <hi>Tra<g ref="char:EOLhyphen"/>quaire,</hi> and ſome of quality rendered themſelves priſoners of their owne accord, others we tooke, yeſternight twelve a clock Duke <hi>Hamilton</hi> ſent a Trumpet (but without writing) to render himſelfe and the whole Army upon conditions; This incloſed we returned him by two Gentlemen who are not yet returned, we ſhall pray your directions, which in this and other things ſhall be obſerved by.</p>
+            <closer>
+               <dateline>
+                  <date>21. Auguſt, 1648.</date>
+               </dateline>
+               <signed>Your moſt humble ſervants
+<list>
+                     <item>Roger VVilbraham.</item>
+                     <item>James Lothian.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>We ſhall deſire to heare where you are, and how you are, and wherein we may ſerve you, and in what condition <hi>Warrington</hi> is.</p>
+               <p>We have 1000. of the meaneſt condition of pri<g ref="char:EOLhyphen"/>ſoners who have nothing to maintaine them, nor our Country by reaſon of the ſcarcity of Bread able to do it, we ſhal deſire to know how to diſpoſe of them.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A Copy of the incloſed.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THe Earle of <hi>Traquaire</hi> and other Lords, &amp;c. Perſons of quality, have voluntarily ſurrendered themſelves to avoid the inſo<g ref="char:EOLhyphen"/>lency of the Souldiers, and underſtanding by your Trumpeter of your diſpofition to doe the like, we doe engage that you ſhall finde all noble and civill reſpects and entertainment. Lievtenant Generall <hi>Cromwell</hi> and the Counties adjacent are reſolved upon a ſpeedy purſuit; This we ſubmit to your Honours conſideration and remaine</p>
+            <closer>
+               <dateline>
+                  <date>Auguſt, 20. 1648.</date>
+               </dateline>
+               <signed>Your Excellencies humble Servants,
+<list>
+                     <item>Roger VVilbraham.</item>
+                     <item>James Lothian.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_officers_and_soldiers">
+            <pb n="3" facs="tcp:162164:3"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <hi>A Liſt of the Officers and Souldiers of twenty Regiments of Foot (of</hi> Scots) <hi>priſoners as followeth, which Priſoners were taken at</hi> Warrington <hi>Bridge.</hi>
+            </head>
+            <list>
+               <head>In the Lord Dukes Regiment.</head>
+               <item>SErjeant Maj. Bailye</item>
+               <item>Captaine Hugh Marwell</item>
+               <item>Capt. Gabriel Hambleton</item>
+               <item>Capt. Archibald Hambleton</item>
+               <item>Capt. George Hambleton</item>
+               <item>Capt. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Bailye</item>
+               <item>Capt. James Hambleton</item>
+               <item>Lievt. Francis Bailye</item>
+               <item>Lievt. John Hambleton</item>
+               <item>Lievt. John Cormuck</item>
+               <item>Enſigne David Forfith</item>
+               <item>Enſigne David Scot</item>
+               <item>Enſigne David Linſey</item>
+               <item>Enſigne David Bailey</item>
+               <item>Enſigne John Tenant</item>
+               <item>Enſigne John Linſey</item>
+               <item>Enſigne Francis Hambleton</item>
+               <item>Enſigne James Ingles</item>
+               <item>Serjeants 19.</item>
+               <item>Private Souldiers 360.</item>
+            </list>
+            <list>
+               <head>Lieut. Gen. Bailey his Regim.</head>
+               <item>LIevt. Generall Bailey</item>
+               <item>Major Walter Scot</item>
+               <item>Capt. James Bailey</item>
+               <item>Enſigne Patrick Home</item>
+               <item>Enſigne Robert Johnſon</item>
+               <item>Serjeants 4.</item>
+               <item>Private Souldiers 120.</item>
+            </list>
+            <list>
+               <head>Col. Eaſter his Regiment.</head>
+               <item>CAptaine Thomas Humbleton</item>
+               <item>Capt Alexander Augmoutie</item>
+               <item>Edmond Hay</item>
+               <item>Lievt. Grahum</item>
+               <item>Lievt. Abercromy</item>
+               <item>Lievt. Twidey</item>
+               <item>Lievt. Hume</item>
+               <item>Lievt. Strudſham.</item>
+               <item>Lievt. Clerke</item>
+               <item>Lievt. <g ref="char:V">Ʋ</g>ngton.</item>
+               <item>Enſigne Weary</item>
+               <item>Enſigne Howſton</item>
+               <item>Enſigne Humes</item>
+               <item>Enſigne <g ref="char:V">Ʋ</g>kbrann</item>
+               <item>Enſigne Taite</item>
+               <item>Enſigne Cranſton</item>
+               <item>Enſigne Hay</item>
+               <item>Enſigne Murrey</item>
+               <item>Enſigne William Cranſton</item>
+               <item>Serjeants 12.</item>
+               <item>Private Souldiers 50.</item>
+            </list>
+            <list>
+               <head>Lord Dumfriers Regiment.</head>
+               <item>LIevt. Colonell John Johnſon.</item>
+               <item>Capt. William Johnſon</item>
+               <item>Lievt. Patrick Johnſon</item>
+               <item>Lievt. Iohn. Crighton.</item>
+               <item>Lievt. Patrick Johnſon</item>
+               <item>Lievt. George Murrey</item>
+               <item>Lievt. John Johnſon</item>
+               <item>Enſigne James Johnſon</item>
+               <item>
+                  <pb n="4" facs="tcp:162164:4"/>
+                  <!-- PDF PAGE 11 -->
+Serjeants 4.</item>
+               <item>Private Souldiers 44.</item>
+            </list>
+            <list>
+               <head>Generall of the Artilleries Regiment.</head>
+               <item>MAjor Hambleton</item>
+               <item>Capt. Engam.</item>
+               <item>Lievt. Murrey</item>
+               <item>Serjeants 5.</item>
+               <item>Private Souldiers 46.</item>
+            </list>
+            <list>
+               <head>Colonell Fraſures Regiment of Firelocks.</head>
+               <item>CApt. John Freſure.</item>
+               <item>Capt. Leſly.</item>
+               <item>Lievt. James Reade</item>
+               <item>Lievt. William Faulconer</item>
+               <item>Enſigne James Leſlye</item>
+               <item>Enſigne Johnſon</item>
+               <item>Serjeants 4.</item>
+               <item>Private Souldiers 150.</item>
+            </list>
+            <list>
+               <head>Col. Mackeny his Regiment.</head>
+               <item>MAjor Alexander Fleming</item>
+               <item>Capt. William Dromond.</item>
+               <item>Lievt. John Dromond</item>
+               <item>Lievt. Walter Mackenell</item>
+               <item>Enſigne William Hamble</item>
+               <item>Enſigne William Drummond</item>
+               <item>Enſigne William Drummond</item>
+               <item>Enſigne John Davis</item>
+               <item>Enſigne John Burdine</item>
+               <item>Serjeants 2.</item>
+               <item>Souldiers 90.</item>
+            </list>
+            <list>
+               <head>Lord Burgrims Regiment.</head>
+               <item>MAjor James Summervell</item>
+               <item>Capt. Iohn. Peach.</item>
+               <item>Lievt. Alexander Twidey</item>
+               <item>Lievt. Robert Hambleton</item>
+               <item>Enſigne William Weach</item>
+               <item>Enſigne George Bruce</item>
+               <item>Seejeants 4.</item>
+               <item>Souldiers 80.</item>
+            </list>
+            <list>
+               <head>Col. Turners Regiment.</head>
+               <item>LIevt. Col. George Meldrum</item>
+               <item>Major Malcomb Sumervell</item>
+               <item>Enſigne Andrew Rottſome</item>
+               <item>Enſigne Andrew Oglebye</item>
+               <item>Enſigne Nicholas Browne</item>
+               <item>Serjeants 7.</item>
+               <item>Souldiers 120.</item>
+            </list>
+            <list>
+               <head>Col. Sir John Greys Regiment.</head>
+               <item>Enſigne James Forgyſon</item>
+               <item>Enſigne James Abercrumnye</item>
+               <item>Alex. Gibſon Quartermaſter</item>
+               <item>Serjeants 2.</item>
+               <item>Souldiers 32.</item>
+            </list>
+            <list>
+               <head>Lord Tillibacues Regiment.</head>
+               <item>MAjor John Fleming.</item>
+               <item>Lievt. David Hitton.</item>
+               <item>Lievt. Andrew Napper.</item>
+               <item>Enſigne James Cambell.</item>
+               <item>Serjeants 11.</item>
+               <item>Souldiers 116.</item>
+            </list>
+            <list>
+               <head>Col. Rich. Douglus Regim.</head>
+               <item>MAjor VVilliam Douglus</item>
+               <item>Enſigne William Scot</item>
+               <item>Enſigne Andrew Scot</item>
+               <item>Enſigne Archibold Scot</item>
+               <item>Enſigne Will. Rutherford</item>
+               <item>Enſigne Robert Douglus</item>
+               <item>Enſigne James Scot</item>
+               <item>Enſigne Walter Scot.</item>
+               <item>Enſigne James Harlerton</item>
+               <item>Enſigne William Rutherford</item>
+               <item>Enſigne Alexander Prengle</item>
+               <item>Serjeants 7.</item>
+               <item>Souldiers 124.</item>
+            </list>
+            <list>
+               <pb n="5" facs="tcp:162164:4"/>
+               <!-- PDF PAGE 11 -->
+               <head>Col. Henry Maules Regiment.</head>
+               <item>LIevt. Andrew Wood</item>
+               <item>Enſigne Robert Lisbine</item>
+               <item>Enſigne Tho. Donetſon</item>
+               <item>Alexander Doughard</item>
+               <item>James Gentleman</item>
+               <item>Robert Ireling Quarter-maſter</item>
+               <item>Serjeants 3.</item>
+               <item>Souldiers 119.</item>
+            </list>
+            <list>
+               <head>Lord Carnagis Regiment.</head>
+               <item>LIevt. Col. VVill. Hambleton</item>
+               <item>Lievt. Robert Dundas</item>
+               <item>Lievt. Archibald Linſey</item>
+               <item>Lievt. James VVilſon</item>
+               <item>Lievt. James Farbeſſe</item>
+               <item>Lievt. Alexander Caddle</item>
+               <item>Enſigne David Carnogie.</item>
+               <item>Enſigne John Criſhen</item>
+               <item>Enſigne James Sintlar</item>
+               <item>Enſigne John Garden</item>
+               <item>Enſigne William Mahumto<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Serjeants 8.</item>
+               <item>Souldiers 140.</item>
+            </list>
+            <list>
+               <head>Lord Home his Regiment.</head>
+               <item>LIevt. Col. Alexander Home</item>
+               <item>Philip Misbet Quarter-maſt.</item>
+               <item>Capt. Lievt. Peter Home</item>
+               <item>Lievt. William Deckſon</item>
+               <item>Lievt. Indeneek</item>
+               <item>Lievt. Cara</item>
+               <item>Lievt. Home</item>
+               <item>Enſigne David Home</item>
+               <item>Enſigne Robert Watſon</item>
+               <item>Enſigne Rologe</item>
+               <item>Enſigne Mowe</item>
+               <item>Enſigne Morchelſon</item>
+               <item>Enſigne Browne</item>
+               <item>Serjeants 14.</item>
+               <item>Souldiers 250.</item>
+            </list>
+            <list>
+               <head>Lord Riches Regiment</head>
+               <item>CApt. Lievt. John Ereig</item>
+               <item>Lievt. Roger Mowet</item>
+               <item>Lievt. James Keith</item>
+               <item>Lievt. Patrick Blayer</item>
+               <item>Enſigne James Keith</item>
+               <item>Enſigne Robert Grahams</item>
+               <item>Enſigne Andrew Leſley</item>
+               <item>Enſigne James Atkins</item>
+               <item>Enſigne Alexander Keith</item>
+               <item>Serjeants 4.</item>
+               <item>Souldiers 130.</item>
+            </list>
+            <list>
+               <head>Marqueſſe of Argiles Regim.</head>
+               <item>CAptaine Daniel Campbell</item>
+               <item>Lievt. John Stewart</item>
+               <item>Lievt. Patrick Mackara</item>
+               <item>Lievt. Patrick Campbell</item>
+               <item>Lievt. Tho. Ballbanan</item>
+               <item>Lievt. Iohn Menreis</item>
+               <item>Lievt. Alexander Cambell</item>
+               <item>Lievt. William Muſgrave</item>
+               <item>Lievt. Patrick Hemant</item>
+               <item>Lievt. Hugh Macelli</item>
+               <item>Serjeants 5.</item>
+            </list>
+            <list>
+               <head>Lord Kales Regiment.</head>
+               <item>LIevt. Robert Linſey</item>
+               <item>Enſigne Tho. Hambleton</item>
+               <item>Enſigne Iohn Dickſon</item>
+               <item>Enſigne Peter Borthill</item>
+               <item>Enſigne Iohn Perſon</item>
+               <item>Serjeants 5.</item>
+               <item>Souldiers 100.</item>
+            </list>
+            <list>
+               <head>Lord Rosbroughs Regiment.</head>
+               <item>Q<g ref="char:V">Ʋ</g>artermaſter Alex. Latie</item>
+               <item>Lievt. James Cambell</item>
+               <item>
+                  <pb n="6" facs="tcp:162164:5"/>
+                  <!-- PDF PAGE 12 -->
+Enſigne William Rutherford</item>
+               <item>Serjeants 3.</item>
+               <item>Souldiers 30.</item>
+            </list>
+            <list>
+               <head>Lord Othels Regiment.</head>
+               <item>LIevt. Col. William Ogumye</item>
+               <item>Capt. Robert Stewart</item>
+               <item>Enſigne Tho. <g ref="char:V">Ʋ</g>ginge</item>
+               <item>Enſigne Relcay</item>
+               <item>Enſigne James Jackſon</item>
+               <item>Enſigne Patrick Blan</item>
+               <item>Enſigne William Sandbyn</item>
+               <item>Enſigne Henry Stelbart</item>
+               <item>Enſigne John Robinſon</item>
+               <item>Serjeants 5.</item>
+               <item>Souldiers 155.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Lievt Gen.</cell>
+                     <cell role="label">Lievt Col.</cell>
+                     <cell role="label">Ma<g ref="char:EOLhyphen"/>jors.</cell>
+                     <cell role="label">Cap<g ref="char:EOLhyphen"/>tains.</cell>
+                     <cell role="label">Liev<g ref="char:EOLunhyphen"/>ten.</cell>
+                     <cell role="label">En<g ref="char:EOLhyphen"/>ſign.</cell>
+                     <cell role="label">Quat<g ref="char:EOLunhyphen"/>term.</cell>
+                     <cell role="label">Serje<g ref="char:EOLhyphen"/>ants.</cell>
+                     <cell role="label">Soul<g ref="char:EOLhyphen"/>diers.</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Dukes Regim.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell>19</cell>
+                     <cell>360</cell>
+                  </row>
+                  <row>
+                     <cell>Lievt Gen. Bailey.</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>120</cell>
+                  </row>
+                  <row>
+                     <cell>Col. Eaſter.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Dumfryers.</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Gen. of Artillery.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Col. Fraſure.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>Col. Mackeny.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Burgrims.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Col. Turners.</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>7</cell>
+                     <cell>120</cell>
+                  </row>
+                  <row>
+                     <cell>Sir John. Grey.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Tillibacus</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>116</cell>
+                  </row>
+                  <row>
+                     <cell>Col. Rich. Douglas.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>7</cell>
+                     <cell>1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4</cell>
+                  </row>
+                  <row>
+                     <cell>Col. Henry Mauls.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>119</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Carnagis.</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>140</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Home.</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>14</cell>
+                     <cell>250</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Keith.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>130</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Kaley</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>Marqueſſe Argile.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Rousbrough.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Lord Othell.</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>155</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>8</cell>
+                     <cell>78</cell>
+                     <cell>3</cell>
+                     <cell>128</cell>
+                     <cell>2256</cell>
+                  </row>
+               </table>
+            </p>
+            <p>128 Serjeants, 3 Quarter-Maſters, 78 Enſignes, 48 Lievte<g ref="char:EOLhyphen"/>nants, 20 Captaines, 8 Majors, 5 Lievtenant Colonells, 1 Lievte<g ref="char:EOLhyphen"/>nant Generall. 2547.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
